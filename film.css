@@ -1,0 +1,37 @@
+* { margin: 0; padding: 0; }
+
+article { 
+	height: 1000px;
+  	width: 1000px;
+  	background: #eee;
+  	margin: 10px auto;
+  	position: relative;
+  	
+}
+
+.side_to_side {
+	height: 100px;
+  	width: 100%;
+  	background:;
+
+}
+
+.left_panel {
+	height: 600px;
+  	width: 440px;
+  	vertical-align: left
+  }
+.right_panel {
+	height: 600px;
+  	width: 440px;
+ }
+.bottom_panel {
+	height: 300px;
+  	width: 940px;
+	
+}
+
+.storyline {
+	font-family: "Georgian"
+	
+}
